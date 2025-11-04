@@ -2,5 +2,10 @@
 Selamat Bermain !
 
 
-google.com
-gemini.google.com
+
+===============================================================================================
+[google](google.com)
+
+[gemini](gemini.google.com)
+
+[pybrics](https://docs.pybricks.com/en/stable/)
